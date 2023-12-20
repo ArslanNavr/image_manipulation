@@ -6,11 +6,11 @@
 ''INSTRUCTIONS''
 
 1. Install the following packages:
-        from PIL import Image
-        import numpy as np
-        import os
-        import matplotlib.pyplot as plt
-        from scipy.ndimage import zoom
+        from PIL import Image ///\\\
+        import numpy as np ///\\\
+        import os ///\\\
+        import matplotlib.pyplot as plt ///\\\
+        from scipy.ndimage import zoom ///\\\
 
 2. Download the content inside the "data" which is the image called "pickle.png"
 
