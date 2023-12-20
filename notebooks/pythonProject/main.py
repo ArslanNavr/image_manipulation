@@ -98,6 +98,3 @@ def process_images(image_path):
 # Load and process the image
 loc_input_img = os.path.join('..', '..', 'data', 'input', 'pickle.png')
 process_images(loc_input_img)
-
-
-#lets upload this shit and get it over with
